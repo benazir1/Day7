@@ -1,6 +1,5 @@
-<html>
-  
 //b)Get all the countries with a population of less than 2 lakhs using Filter function
+<html>
 
 <head>
     <title>XMLHttpRequest Example</title>
